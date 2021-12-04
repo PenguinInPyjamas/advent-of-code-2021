@@ -1,5 +1,4 @@
 import argparse
-from collections import Counter
 
 
 def parse_args():
